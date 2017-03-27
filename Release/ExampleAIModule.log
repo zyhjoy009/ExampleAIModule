@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017-3-17 15:10:47。
+     1>项目“D:\BWAPI\ExampleAIModule\ExampleAIModule.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../include /Zi /nologo /W3 /WX- /MP /O2 /Oi /Oy- /GL /D NOMINMAX /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EXAMPLEAIMODULE_EXPORTS /D _WINDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\ExampleAIModule.cpp
+         ExampleAIModule.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BWAPI\Release\ExampleAIModule.dll" /INCREMENTAL:NO /NOLOGO ../lib/BWAPI.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BWAPI\Release\ExampleAIModule.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\ExampleAIModule.lib" /MACHINE:X86 /SAFESEH /DLL Release\Dll.obj
+         Release\ExampleAIModule.obj
+            正在创建库 Release\ExampleAIModule.lib 和对象 Release\ExampleAIModule.exp
+         正在生成代码
+         已完成代码的生成
+         ExampleAIModule.vcxproj -> D:\BWAPI\Release\ExampleAIModule.dll
+     1>已完成生成项目“D:\BWAPI\ExampleAIModule\ExampleAIModule.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.59
